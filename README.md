@@ -5,4 +5,4 @@ Just set the location to where your blk.dat files are kept (probably /home/user/
 
 `php fread.php`
 
-Sit back and watch all the blocks and transactions.
+Then sit back and watch all the blocks and transactions.
