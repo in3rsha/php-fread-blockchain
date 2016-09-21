@@ -15,8 +15,8 @@ function varInt($transactions) { // Calculates the full variable integer and ret
 }
 
 // Settings
-$folder = '/home/greg/.bitcoin/blocks';
-$filenumber = 490; // which blk.dat file to start with
+$folder = '/home/user/.bitcoin/blocks';
+$filenumber = 0; // which blk.dat file to start with
 
 
 // -------------------
